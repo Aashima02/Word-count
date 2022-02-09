@@ -38,10 +38,10 @@ wordcount()
 
 ## OUTPUT:
 ### MyFile.txt
-![myfile](./MyFile.png)
+![MyFile](https://user-images.githubusercontent.com/93427086/153130605-800df2b3-c476-413c-b85c-512547cae752.png)
 
 ### Output:
-![output](./output.png)
+![output](https://user-images.githubusercontent.com/93427086/153130618-2fdb5469-9e15-4224-b9c7-cf732fd8331c.png)
 
 
 
